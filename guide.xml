@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN BRASIL  HD">
+    <display-name lang="pt">ESPN BRASIL  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL  SD">
+    <display-name lang="pt">ESPN BRASIL  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN1  HD">
+    <display-name lang="pt">ESPN1  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN1  SD">
+    <display-name lang="pt">ESPN1  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN2  HD">
+    <display-name lang="pt">ESPN2  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN2  SD">
+    <display-name lang="pt">ESPN2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS  DH">
+    <display-name lang="pt">FOX SPORTS  DH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS  SD">
+    <display-name lang="pt">FOX SPORTS  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2  SD">
+    <display-name lang="pt">FOX SPORTS 2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV  HD">
+    <display-name lang="pt">SPORTSTV  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV  SD">
+    <display-name lang="pt">SPORTSTV  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV2  HD">
+    <display-name lang="pt">SPORTSTV2  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV2  SD">
+    <display-name lang="pt">SPORTSTV2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV3  HD">
+    <display-name lang="pt">SPORTSTV3  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV3  SD">
+    <display-name lang="pt">SPORTSTV3  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIE CLUBE HD">
+    <display-name lang="pt">PREMIE CLUBE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIE CLUBE  SD">
+    <display-name lang="pt">PREMIE CLUBE  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200831210000 -0300" stop="20200831220000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200831210000 -0300" stop="20200831220000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200831200000 -0300" stop="20200901010000 -0300" channel="ESPN1  HD">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831200000 -0300" stop="20200901010000 -0300" channel="ESPN1  SD">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831193000 -0300" stop="20200831223000 -0300" channel="ESPN2  HD">
+    <title lang="pt">MLB: St. Louis Cardinals x Cincinnati Reds - Ao Vivo</title>
+  </programme>
+  <programme start="20200831223000 -0300" stop="20200901013000 -0300" channel="ESPN2  HD">
+    <title lang="pt">MLB: San Diego Padres x Colorado Rockies - Ao Vivo</title>
+  </programme>
+  <programme start="20200831193000 -0300" stop="20200831223000 -0300" channel="ESPN2  SD">
+    <title lang="pt">MLB: St. Louis Cardinals x Cincinnati Reds - Ao Vivo</title>
+  </programme>
+  <programme start="20200831223000 -0300" stop="20200901013000 -0300" channel="ESPN2  SD">
+    <title lang="pt">MLB: San Diego Padres x Colorado Rockies - Ao Vivo</title>
+  </programme>
+  <programme start="20200831203000 -0300" stop="20200831220000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Bom Dia Fox</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901014500 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200831203000 -0300" stop="20200831220000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Bom Dia Fox</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901014500 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200831210000 -0300" stop="20200901000000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE Monday Night Raw - Ao Vivo</title>
+  </programme>
+  <programme start="20200831210000 -0300" stop="20200901000000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">WWE Monday Night Raw - Ao Vivo</title>
+  </programme>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200901003000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Bem, Amigos! - Ao Vivo</title>
+  </programme>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200901003000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Bem, Amigos! - Ao Vivo</title>
+  </programme>
+  <programme start="20200831213000 -0300" stop="20200901000000 -0300" channel="SPORTSTV2  HD">
+    <title lang="pt">NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200831213000 -0300" stop="20200901000000 -0300" channel="SPORTSTV2  SD">
+    <title lang="pt">NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200831200000 -0300" stop="20200831220000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200901000000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831200000 -0300" stop="20200831220000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200901000000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">VT - Oeste x Avaí</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">VT - Guarani x Náutico</title>
+  </programme>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
+  </programme>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">VT - Oeste x Avaí</title>
+  </programme>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">VT - Guarani x Náutico</title>
+  </programme>
+</tv>
